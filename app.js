@@ -62,7 +62,7 @@
 
 // let price = parseFloat(
 //   prompt(
-//     "Narxni kiriting va 0.1 kg dan 1 kg gacha bo'lgan narxlar ro'yhatiga ega bo'ling:"
+//     "Narxni kiriting va 0.1 kg dan 1 kg gacha bo'lgan narxlar ro'yhatini oling:"
 //   )
 // );
 // let sum = 0;
@@ -73,9 +73,6 @@
 // }
 
 // 7-masala
-// alert(
-//   "a va b son kiriting. Shunda a va b sonlari oralig'idagi sonlar yeg'indisini olasiz(a soni b sonidan kichik bo'lsin)"
-// );
 // let a = +prompt("Birinchi sonni kiriting:");
 // let b = +prompt("Ikkinchi sonni kiriting:");
 // let sum = 0;
@@ -90,9 +87,6 @@
 
 // 8-masala
 
-// alert(
-//   "a va b son kiriting. Shunda a va b sonlari oralig'idagi sonlar ko'paytmsini olasiz(a soni b sonidan kichik bo'lsin)"
-// );
 // let a = +prompt("Birinchi sonni kiriting:");
 // let b = +prompt("Ikkinchi sonni kiriting:");
 // let sum = 1;
@@ -108,9 +102,6 @@
 
 // 9-masala
 
-// alert(
-//   "a va b son kiriting. Shunda a va b sonlari oralig'idagi sonlar kvadratining yeg'indisini olasiz(a soni b sonidan kichik bo'lsin)"
-// );
 // let a = +prompt("Birinchi sonni kiriting:");
 // let b = +prompt("Ikkinchi sonni kiriting:");
 // let sum = 0;
